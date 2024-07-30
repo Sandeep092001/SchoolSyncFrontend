@@ -1,0 +1,9 @@
+{
+  "/settings/page": "app/settings/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/forms/ListAllStudents/page": "app/forms/ListAllStudents/page.js",
+  "/forms/form-layout/page": "app/forms/form-layout/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/Fees/page": "app/Fees/page.js"
+}
